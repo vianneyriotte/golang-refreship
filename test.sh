@@ -1,0 +1,1 @@
+go build refreship.go && ./refreship vianney.hoplapizza.ovh hoplapizza.ovh-vianney mdp
